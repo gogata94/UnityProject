@@ -1,3 +1,4 @@
+//test
 int data = 0;
 String consoleInputNumber;
 char set[10];
@@ -23,4 +24,3 @@ void loop() {
   } else { }
   set[0]='0';
 }
-
